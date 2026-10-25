@@ -1,0 +1,5 @@
+metric,value
+rows,18644.0
+baseline_accuracy,0.622
+vader_accuracy,0.7175
+vader_macro_f1,0.597
